@@ -19,7 +19,7 @@ Python | SQL | Pandas | Numpy | Power BI | Excel | Machine Learning (en progreso
 📁 Repo: https://github.com/Jeanems/customer-churn-prediction-ml
 
 ### 🔹 Machine Learning – Clasificación Supervisada  
-📁 Repo: https://github.com/Jeanems/machine-learning-project
+📁 Repo: https://github.com/Jeanems/Machine-Learning
 
 ### 🔹 Métodos Numéricos con Python  
 📁 Repo: https://github.com/Jeanems/numerical-methods-python
