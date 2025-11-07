@@ -11,3 +11,15 @@ Python | SQL | Pandas | Numpy | Power BI | Excel | Machine Learning (en progreso
 📫 **Contacto:**  
 - 📧 jeanettemanquilef@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeanettemanquilef)
+
+
+## 📌 Proyectos Destacados
+
+### 🔹 Customer Churn Prediction – Machine Learning  
+📁 Repo: https://github.com/Jeanems/customer-churn-prediction-ml
+
+### 🔹 Machine Learning – Clasificación Supervisada  
+📁 Repo: https://github.com/Jeanems/machine-learning-project
+
+### 🔹 Métodos Numéricos con Python  
+📁 Repo: https://github.com/Jeanems/numerical-methods-python
