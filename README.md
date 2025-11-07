@@ -8,9 +8,25 @@ Actualmente curso el programa de **Data Science en TripleTen**, donde desarrollo
 💡 **Herramientas y tecnologías:**  
 Python | SQL | Pandas | Numpy | Power BI | Excel | Machine Learning (en progreso)
 
-📫 **Contacto:**  
-- 📧 jeanettemanquilef@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeanettemanquilef)
+<p align="center">
+<a href="mailto:jeanettemanquilef@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square"></a>
+<a href="https://github.com/Jeanems"><img src="https://img.shields.io/badge/GitHub-Jeanems-black?style=flat-square&logo=github"></a>
+<a href="https://www.linkedin.com/in/jeanettemanquilef/"><img src="https://img.shields.io/badge/LinkedIn-Jeanette%20Manquilef-blue?style=flat-square&logo=linkedin"></a>
+</p>
+
+---
+
+## 📌 Proyectos Destacados
+
+### 🔹 Customer Churn Prediction – Machine Learning  
+📁 Repo: https://github.com/Jeanems/customer-churn-prediction-ml
+
+### 🔹 Machine Learning – Clasificación Supervisada  
+📁 Repo: https://github.com/Jeanems/Machine-Learning
+
+### 🔹 Métodos Numéricos con Python  
+📁 Repo: https://github.com/Jeanems/numerical-methods-python
+
 
 
 ## 📌 Proyectos Destacados
